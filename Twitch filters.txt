@@ -1,0 +1,21 @@
+# Twitch
+
+www.twitch.tv##.hoverBackground--XLVPf.idutqe.Layout-sc-1xcs6mc-0
+www.twitch.tv##.dbGRQN.Layout-sc-1xcs6mc-0
+www.twitch.tv##.dQcTNH.Layout-sc-1xcs6mc-0
+www.twitch.tv##.lnhkJe.Layout-sc-1xcs6mc-0
+www.twitch.tv##.fTsfkd.Layout-sc-1xcs6mc-0
+www.twitch.tv##.dRMwTz.Layout-sc-1xcs6mc-0
+www.twitch.tv##.bannerButton--KwueS.bWdpZH.InjectLayout-sc-1i43xsx-0
+www.twitch.tv##.krtRyi.Layout-sc-1xcs6mc-0
+www.twitch.tv##.community-highlight.jubumC.Layout-sc-1xcs6mc-0
+www.twitch.tv##.community-highlight-stack__backlog-card.bOXccC.Layout-sc-1xcs6mc-0
+www.twitch.tv##.kiqxJo.Layout-sc-1xcs6mc-0
+www.twitch.tv##.chat-input.kklSOA.Layout-sc-1xcs6mc-0
+www.twitch.tv##.channel-panels.Layout-sc-1xcs6mc-0
+www.twitch.tv##.gxYeIp.ScCoreButton-sc-ocjdkq-0
+www.twitch.tv##.InjectLayout-sc-1i43xsx-0.gGttfb.ScCoreButton-sc-ocjdkq-0
+www.twitch.tv##.fIBvJU.Layout-sc-1xcs6mc-0 > .dcNXJO.ScButtonIcon-sc-9yap0r-0.iPkwTD.ScCoreButton-sc-ocjdkq-0
+www.twitch.tv##.bZYcrx.Layout-sc-1xcs6mc-0
+www.twitch.tv##.jNQxNh.Layout-sc-1xcs6mc-0
+www.twitch.tv##div.side-nav-section.iGMbNn.Layout-sc-1xcs6mc-0:nth-of-type(1)
