@@ -70,14 +70,6 @@
   www.youtube.com###top-row.ytd-watch-metadata #sponsor-button
 ! YT - Below the Player Buttons - Subscribe
   www.youtube.com###top-row.ytd-watch-metadata #subscribe-button
-! YT - Below the Player Buttons - Like/Dislike
-  www.youtube.com###top-row.ytd-watch-metadata .ytSegmentedLikeDislikeButtonViewModelHost
-    ! YT - Below the Player Buttons - Like
-      www.youtube.com###top-row.ytd-watch-metadata .ytLikeButtonViewModelHost
-        ! YT - Below the Player Buttons - Like Count
-          www.youtube.com###top-row.ytd-watch-metadata .ytLikeButtonViewModelHost .yt-spec-button-shape-next__button-text-content
-    ! YT - Below the Player Buttons - Dislike
-      www.youtube.com###top-row.ytd-watch-metadata .ytDislikeButtonViewModelHost
 ! YT - Below the Player Buttons - Ask
   www.youtube.com###top-row.ytd-watch-metadata yt-button-view-model:has([aria-label="Ask"])
 ! YT - Below the Player Buttons - Thanks
