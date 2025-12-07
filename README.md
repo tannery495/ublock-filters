@@ -1,1 +1,1 @@
-This is mainly a personal Ublock filters
+Custom uBlock Filters (Mostly Personal Use)
