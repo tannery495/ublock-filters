@@ -75,6 +75,39 @@
 ! YT Search - keep only videos (no shorts), channels and playlists
   youtube.com##ytd-search ytd-item-section-renderer>#contents>:is(:not(ytd-video-renderer,ytd-channel-renderer,ytd-playlist-renderer,yt-lockup-view-model,yt-showing-results-for-renderer,[icon-name="promo-full-height:EMPTY_SEARCH"]),ytd-video-renderer:has([aria-label="Shorts"])),ytd-secondary-search-container-renderer
 
+! Hides the sponsor button that appears on sponsored videos
+www.youtube.com###sponsor-button
+
+! Removes the YouTube masthead, often used for ads or promotional content
+www.youtube.com###end > .ytd-masthead.style-scope
+
+! Hides the sign-in promotion in the YouTube sidebar
+www.youtube.com##ytd-guide-signin-promo-renderer.ytd-guide-renderer.style-scope
+
+! Removes a specific section from the sidebar (could be related to recommendations or promotions)
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
+
+! Hides inner content of the guide menu (the sidebar)
+www.youtube.com###guide-inner-content
+
+! Removes the guide button (used to open the sidebar menu)
+www.youtube.com###guide-button
+
+! Removes a specific UI element (part of the masthead button area)
+www.youtube.com##.ytd-masthead.style-scope > yt-button-shape > .yt-spec-button-shape-next--enable-backdrop-filter-experiment.yt-spec-button-shape-next--icon-only-default.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--text.yt-spec-button-shape-next > .yt-spec-touch-feedback-shape--touch-response.yt-spec-touch-feedback-shape > .yt-spec-touch-feedback-shape__fill
+
+! Removes another specific UI element related to masthead buttons
+www.youtube.com##.ytd-masthead.style-scope > yt-button-shape > .yt-spec-button-shape-next--enable-backdrop-filter-experiment.yt-spec-button-shape-next--icon-only-default.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--text.yt-spec-button-shape-next > .yt-spec-touch-feedback-shape--touch-response.yt-spec-touch-feedback-shape > .yt-spec-touch-feedback-shape__stroke
+
+! Removes the feedback shape in the masthead button area
+www.youtube.com##.ytd-masthead.style-scope > yt-button-shape > .yt-spec-button-shape-next--enable-backdrop-filter-experiment.yt-spec-button-shape-next--icon-only-default.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--text.yt-spec-button-shape-next > .yt-spec-touch-feedback-shape--touch-response.yt-spec-touch-feedback-shape
+
+! Removes the button shape in the masthead area
+www.youtube.com##.ytd-masthead.style-scope > yt-button-shape > .yt-spec-button-shape-next--enable-backdrop-filter-experiment.yt-spec-button-shape-next--icon-only-default.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--text.yt-spec-button-shape-next
+
+! Hides the voice search button in the YouTube masthead
+www.youtube.com###voice-search-button > .ytd-masthead.style-scope > yt-button-shape
+
 
 
 
